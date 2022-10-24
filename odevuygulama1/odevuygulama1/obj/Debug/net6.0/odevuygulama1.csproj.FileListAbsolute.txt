@@ -1,0 +1,15 @@
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\bin\Debug\net6.0\odevuygulama1.exe
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\bin\Debug\net6.0\odevuygulama1.deps.json
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\bin\Debug\net6.0\odevuygulama1.runtimeconfig.json
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\bin\Debug\net6.0\odevuygulama1.dll
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\bin\Debug\net6.0\odevuygulama1.pdb
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.csproj.AssemblyReference.cache
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.AssemblyInfoInputs.cache
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.AssemblyInfo.cs
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.dll
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\refint\odevuygulama1.dll
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.pdb
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\odevuygulama1.genruntimeconfig.cache
+C:\Users\Nida\source\repos\odevuygulama1\odevuygulama1\obj\Debug\net6.0\ref\odevuygulama1.dll
